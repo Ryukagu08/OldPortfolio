@@ -2,6 +2,7 @@ import salvageImg from '../assets/projects/salvage.png';
 import spectreImg from '../assets/projects/spectre.png';
 import pcsImg from '../assets/projects/pcs.png';
 import portfolioImg from '../assets/projects/portfolio.png';
+import bitterrchatImg from '../assets/projects/bitterchat.png'
 
 export const projectsData = [
   {
@@ -10,6 +11,13 @@ export const projectsData = [
     technologies: ['HTML/CSS', 'JavaScript', 'Vite'],
     demoLink: 'https://www.playsalvage.com/',
     image: salvageImg
+  },
+  {
+    title: 'BitterChat Forum',
+    description: 'A space to discuss, discover, and connect. Real-time conversations, smart search, and an interface that feels like home.' ,
+    technologies: ['HTML/CSS', 'Svelte', 'Docker'],
+    demoLink: 'https://forum.robertoghita.com/',
+    image: bitterchatImg
   },
   {
     title: 'Spectre Memorial Site',
