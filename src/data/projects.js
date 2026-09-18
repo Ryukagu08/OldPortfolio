@@ -2,7 +2,7 @@ import salvageImg from '../assets/projects/salvage.png';
 import spectreImg from '../assets/projects/spectre.png';
 import pcsImg from '../assets/projects/pcs.png';
 import portfolioImg from '../assets/projects/portfolio.png';
-import bitterrchatImg from '../assets/projects/bitterchat.png'
+import bitterchatImg from '../assets/projects/bitterchat.png'
 
 export const projectsData = [
   {
