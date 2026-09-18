@@ -23,7 +23,7 @@ export const projectsData = [
     title: 'PCsCalatayud Project',
     description: 'A custom PC building service project built and designed for a school assignment.',
     technologies: ['React', 'Firebase', 'JavaScript','Vite'],
-    demoLink: 'https://pcs-calatayud.vercel.app',
+    demoLink: 'https://pcscalatayud.vercel.app/',
     image: pcsImg
   },
   {
