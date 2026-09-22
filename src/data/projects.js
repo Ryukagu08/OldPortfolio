@@ -1,8 +1,8 @@
 import salvageImg from '../assets/projects/salvage.png';
 import spectreImg from '../assets/projects/spectre.png';
 import pcsImg from '../assets/projects/pcs.png';
-import portfolioImg from '../assets/projects/portfolio.png';
-import bitterchatImg from '../assets/projects/bitterchat.png'
+import bitterchatImg from '../assets/projects/bitterchat.png';
+import ethansimonImg from '../assets/projects/ethansimon.png';
 
 export const projectsData = [
   {
@@ -20,6 +20,13 @@ export const projectsData = [
     image: bitterchatImg
   },
   {
+    title: 'Ethan Simon-Law Portfolio',
+    description: 'Ethan´s personal portfolio website showcasing projects, skills, and contact information.',
+    technologies: ['Svelte', 'JavaScript', 'Vite'],
+    demoLink: 'https://www.ethansimonlaw3d.com/',
+    image: ethansimonImg
+  },
+  {
     title: 'Spectre Memorial Site',
     description: 'A fan made memorial site built to honor Spectre Divide, featuring game info, media and more.',
     technologies: ['HTML/CSS', 'JavaScript', 'Python'],
@@ -33,13 +40,5 @@ export const projectsData = [
     technologies: ['React', 'Firebase', 'JavaScript','Vite'],
     demoLink: 'https://pcscalatayud.vercel.app/',
     image: pcsImg
-  },
-  {
-    title: 'This Portfolio',
-    description: 'My personal portfolio website showcasing my projects, skills, and contact information.',
-    technologies: ['React', 'JavaScript', 'Vite'],
-    demoLink: 'https://ryukagu.vercel.app/',
-    codeLink: 'https://github.com/Ryukagu08/Portfolio',
-    image: portfolioImg
-  } 
+  }
 ];
