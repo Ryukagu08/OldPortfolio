@@ -21,7 +21,7 @@ export const projectsData = [
   },
   {
     title: 'Ethan Simon-Law Portfolio',
-    description: 'Ethan´s personal portfolio website showcasing projects, skills, and contact information.',
+    description: "Ethan's personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ['Svelte', 'JavaScript', 'Vite'],
     demoLink: 'https://www.ethansimonlaw3d.com/',
     image: ethansimonImg
